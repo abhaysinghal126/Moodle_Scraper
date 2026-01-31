@@ -1,0 +1,15 @@
+# secrets
+cookies.txt
+*.conf
+.env
+*.bat
+.idea/
+
+# downloaded course content
+Second Semester/
+downloaded_index.json
+
+# python junk
+__pycache__/
+*.pyc
+.venv/
